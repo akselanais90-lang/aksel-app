@@ -1,0 +1,9 @@
+{
+  "appId": "com.akselanais.app",
+  "appName": "aksel & anais",
+  "webDir": "www",
+  "server": {
+    "url": "https://akselanais90-lang.github.io/Aksel-/",
+    "cleartext": false
+  }
+}

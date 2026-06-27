@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">aksel &amp; anais</string>
+    <string name="title_activity_main">aksel &amp; anais</string>
+    <string name="package_name">com.akselanais.app</string>
+    <string name="custom_url_scheme">com.akselanais.app</string>
+</resources>
